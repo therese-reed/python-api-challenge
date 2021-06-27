@@ -1,5 +1,6 @@
 # python-api-challenge
 **WeatherPy**
+
 Background
 Python script to visualize the weather of 500+ cities across the world of varying distance from the equator using CityPy, a simple Python library, and the OpenWeatherMap API.
 
